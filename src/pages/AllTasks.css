@@ -1,0 +1,13 @@
+.pagination {
+  position: absolute;
+  right: 0;
+  padding-right: 50px;
+  /* top:0; */
+}
+.maindiv {
+  padding: 50px;
+}
+.divsiz {
+  flex-direction: row;
+  display: flex;
+}
